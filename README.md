@@ -22,4 +22,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/mrajsriva-dev/LeetCode/tree/master/0053-maximum-subarray) |
+## String
+|  |
+| ------- |
+| [0520-detect-capital](https://github.com/mrajsriva-dev/LeetCode/tree/master/0520-detect-capital) |
 <!---LeetCode Topics End-->
