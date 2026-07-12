@@ -8,6 +8,7 @@
 | [0016-3sum-closest](https://github.com/mrajsriva-dev/LeetCode/tree/master/0016-3sum-closest) |
 | [0053-maximum-subarray](https://github.com/mrajsriva-dev/LeetCode/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mrajsriva-dev/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/mrajsriva-dev/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0905-sort-array-by-parity](https://github.com/mrajsriva-dev/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/mrajsriva-dev/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mrajsriva-dev/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/mrajsriva-dev/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -54,4 +56,12 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/mrajsriva-dev/LeetCode/tree/master/0509-fibonacci-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mrajsriva-dev/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mrajsriva-dev/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
