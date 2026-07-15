@@ -8,6 +8,7 @@
 | [0016-3sum-closest](https://github.com/mrajsriva-dev/LeetCode/tree/master/0016-3sum-closest) |
 | [0053-maximum-subarray](https://github.com/mrajsriva-dev/LeetCode/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mrajsriva-dev/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/mrajsriva-dev/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/mrajsriva-dev/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0463-island-perimeter](https://github.com/mrajsriva-dev/LeetCode/tree/master/0463-island-perimeter) |
 | [0905-sort-array-by-parity](https://github.com/mrajsriva-dev/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -18,6 +19,7 @@
 | [0015-3sum](https://github.com/mrajsriva-dev/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/mrajsriva-dev/LeetCode/tree/master/0016-3sum-closest) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mrajsriva-dev/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/mrajsriva-dev/LeetCode/tree/master/0189-rotate-array) |
 | [0905-sort-array-by-parity](https://github.com/mrajsriva-dev/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/mrajsriva-dev/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -48,6 +50,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/mrajsriva-dev/LeetCode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/mrajsriva-dev/LeetCode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
