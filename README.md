@@ -22,6 +22,7 @@
 | [0016-3sum-closest](https://github.com/mrajsriva-dev/LeetCode/tree/master/0016-3sum-closest) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mrajsriva-dev/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/mrajsriva-dev/LeetCode/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/mrajsriva-dev/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/mrajsriva-dev/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/mrajsriva-dev/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -58,6 +59,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/mrajsriva-dev/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/mrajsriva-dev/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -87,4 +89,12 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mrajsriva-dev/LeetCode/tree/master/0001-two-sum) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/mrajsriva-dev/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/mrajsriva-dev/LeetCode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
