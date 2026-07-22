@@ -59,6 +59,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/mrajsriva-dev/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/mrajsriva-dev/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/mrajsriva-dev/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -92,6 +93,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/mrajsriva-dev/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/mrajsriva-dev/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
