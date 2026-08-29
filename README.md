@@ -25,6 +25,7 @@
 | [0016-3sum-closest](https://github.com/mrajsriva-dev/LeetCode/tree/master/0016-3sum-closest) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mrajsriva-dev/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/mrajsriva-dev/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/mrajsriva-dev/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/mrajsriva-dev/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/mrajsriva-dev/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0905-sort-array-by-parity](https://github.com/mrajsriva-dev/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -64,6 +65,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/mrajsriva-dev/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/mrajsriva-dev/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/mrajsriva-dev/LeetCode/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/mrajsriva-dev/LeetCode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -105,6 +107,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/mrajsriva-dev/LeetCode/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/mrajsriva-dev/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0202-happy-number](https://github.com/mrajsriva-dev/LeetCode/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/mrajsriva-dev/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 ## Linked List
 |  |
@@ -126,5 +129,6 @@
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/mrajsriva-dev/LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/mrajsriva-dev/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
