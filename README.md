@@ -13,6 +13,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mrajsriva-dev/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/mrajsriva-dev/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/mrajsriva-dev/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/mrajsriva-dev/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0463-island-perimeter](https://github.com/mrajsriva-dev/LeetCode/tree/master/0463-island-perimeter) |
 | [0905-sort-array-by-parity](https://github.com/mrajsriva-dev/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/mrajsriva-dev/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -25,6 +26,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mrajsriva-dev/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/mrajsriva-dev/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/mrajsriva-dev/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/mrajsriva-dev/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0905-sort-array-by-parity](https://github.com/mrajsriva-dev/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/mrajsriva-dev/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -32,6 +34,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mrajsriva-dev/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/mrajsriva-dev/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/mrajsriva-dev/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/mrajsriva-dev/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
@@ -112,4 +115,16 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/mrajsriva-dev/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/mrajsriva-dev/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/mrajsriva-dev/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/mrajsriva-dev/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
