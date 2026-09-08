@@ -7,13 +7,16 @@ class Solution {
 
         while (left < right) {
             if((arr[left] < 65 || arr[left] > 90) && (arr[left] < 97 || arr[left] > 122)) {
+                //if (!Character.isLetter(arr[left]))
                 left++;
                 continue;
             }
-            if((arr[right] < 65 || arr[right] > 90) && (arr[right] < 97 || arr[right] > 122)) {
+            if (!Character.isLetter(arr[right])) {
                 right--;
                 continue;
             }
+
+            
 
             char temp = arr[left];
             arr[left] = arr[right];
